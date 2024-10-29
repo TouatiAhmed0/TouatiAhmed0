@@ -5,7 +5,7 @@ I'm a FullStack Developer currently in my fifth year of Software Engineering at 
 ## 🚀 Skills & Technologies
 
 - **Languages:** Java, JavaFX, C, C++, Python
-- **Frameworks:** Spring Boot, Angular
+- **Frameworks:** Spring Boot, Angular, Symfony
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, GitHub, Trello, Jira, Docker, IntelliJ, VSCode
 - **Other Skills:** WebSocket, RESTful APIs, Agile methodologies
